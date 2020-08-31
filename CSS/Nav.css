@@ -1,0 +1,16 @@
+nav {
+    background-color: rgb(175, 175, 175);
+    color: white;
+    padding: 10px;
+    border-top: black solid;
+    margin-bottom: 10px;
+}
+a {
+    padding-right: 100px;
+    padding-left: 100px;
+    text-decoration-line: none;
+    color: black;
+}
+a:hover {
+    color: white;
+}
