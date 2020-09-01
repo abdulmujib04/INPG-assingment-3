@@ -1,0 +1,23 @@
+.portfolio h1 {
+    margin-top:100px;
+    text-align: center;
+    background-color: gray;
+    border-top: white solid;
+}
+table {
+    color: white;
+    margin-left: 250px;
+}
+.pendidikan td{
+    text-align: center;
+}
+th{
+    font-size: 30px;
+}
+td{
+    font-size: 30px;
+}
+.datapribadi td{
+    Padding-right:100px;
+    font-size: 30px;
+}

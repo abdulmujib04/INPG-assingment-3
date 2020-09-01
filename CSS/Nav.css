@@ -7,12 +7,12 @@ nav {
     background-color: rgb(175, 175, 175);
     color: white;
     padding: 10px;
-    border-top: black solid;
+    border-top: white solid;
     margin-bottom: 10px;
 }
 a {
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-right: 90px;
+    padding-left: 90px;
     text-decoration-line: none;
     color: black;
 }
