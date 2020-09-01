@@ -1,1 +1,29 @@
 @import "Nav.css";
+@import "portfolio.css";
+@import "blog.css";
+@import "contact.css";
+@import "about.css";
+@import "home.css";
+@import "gallery.css";
+body{
+    background-image: url("../Images/Home\ Img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: white;
+}
+footer{
+    color: white;
+    background-color:gray;
+    font-size: 20px;
+    width: 1200px;
+    height: 37;
+    
+}
+footer a{
+    color: white;
+}
+footer a:hover{
+    color: lightblue;
+}
